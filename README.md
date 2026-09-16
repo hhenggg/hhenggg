@@ -23,7 +23,7 @@
 
   ### Right Now
 
-  - 🔭 Currently building product for the local market at my startup
+  - 🔭 Currently building product for the local market at a startup
   - 🏗️ Sharpening Go on the backend, Nuxt on the front
   - 🎯 2026 goal: ship consistently, lift consistently
 
